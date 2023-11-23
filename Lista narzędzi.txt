@@ -1,0 +1,10 @@
+nmap
+CORScanner
+XSStrike
+ZAP
+enum4linux
+linpeas
+winpeas
+credscan
+clickjacking
+gobuster/dirbuster
