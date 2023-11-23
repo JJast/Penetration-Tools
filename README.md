@@ -1,4 +1,3 @@
 # Penetration-Tools
-Penetration Tools
 
-Set of few penetration script, use at your own risk. 
+Set of few penetration scripts, use at your own risk. 
